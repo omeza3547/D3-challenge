@@ -56,10 +56,11 @@
 @media screen and (max-width: 530px) {
   .stateText {
     display: none;
+    font-size: small;
   }
 
   .aText {
-    font-size: 14px;
+    font-size: 10px;
   }
 }
 
